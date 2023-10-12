@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3wjHcN.webp",
+            "title": "Escaping From Lizogub 1",
+            "text_Content_": "Players encounter a series of interconnected puzzles and challenges that evolve as they progress."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3wj9Fp.webp",
+            "title": "Escaping From Lizogub 2",
+            "text_Content_": "Each puzzle solved reveals a part of the citadel's history and uncovers the purpose of the artifact."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3whpPR.webp",
+            "title": "Escaping From Lizogub 3",
+            "text_Content_": "To succeed, players must collaborate with other characters, each possessing unique skills and knowledge about the citadel."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3whmMv.webp",
+            "title": "Escaping From Lizogub 4",
+            "text_Content_": "The team dynamics and relationships affect the story and the solutions to puzzles."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3whZwg.webp",
+            "title": "Escaping From Lizogub 5",
+            "text_Content_": "The citadel is filled with environmental hazards, from collapsing floors to hidden traps. Players must be vigilant and observant to survive."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3whQAF.webp",
+            "title": "Escaping From Lizogub 6",
+            "text_Content_": "A looming threat, such as the citadel collapsing or an ancient curse, adds urgency to the escape. Players must manage their time wisely."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3whboJ.webp",
+            "title": "Escaping From Lizogub 7",
+            "text_Content_": "The choices players make throughout the game influence the ending. Friendships, betrayals, and key decisions impact the outcome."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3whtta.webp",
+            "title": "Escaping From Lizogub 8",
+            "text_Content_": "As players progress, they discover fragments of the artifact's power. These powers can be used strategically to overcome obstacles or alter the environment."
         }
     ]
 }
